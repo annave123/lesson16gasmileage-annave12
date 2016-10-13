@@ -4,7 +4,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        Automobile myBmw = new Automobile(24);
+        Automobile myBmw = new Automobile(24,24);
 
         myBmw.fillUp(20);
 
